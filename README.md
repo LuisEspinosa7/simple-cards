@@ -3,7 +3,11 @@
 Cards is a basic HTML and CSS3+ proyect which basically shows two cards implemented using the best practices, including CSS BEM, UX Design rule (60% 30% 10%), variables, REMs, Responsiveness, mobile first approach, and more... 
 
 ## Local demo
-Some videos exposing the responsiveness of the proyect in local environment.
+Some videos exposing the responsiveness of the proyect in local environment. Please look in the videos folder...
+
+## Pictures
+Some pictures of the project:
+
 
 
 ## Online demo
