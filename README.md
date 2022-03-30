@@ -3,8 +3,19 @@
 Cards is a basic HTML and CSS3+ proyect which basically shows two cards implemented using the best practices, including CSS BEM, UX Design rule (60% 30% 10%), variables, REMs, Responsiveness, mobile first approach, and more... 
 
 ## Local demo
-Some videos exposing the responsiveness of the proyect in local environment. Please look in the videos folder...
+Some videos exposing the responsiveness of the proyect in local environment.
 
+https://user-images.githubusercontent.com/56041525/160945096-9877114f-c9d9-41bb-9f4c-81517bd3baf9.mov
+
+```
+For more videos please open them:
+
+https://user-images.githubusercontent.com/56041525/160944512-de448dc7-fc45-4a82-9ac5-5bb39ee060f1.mov
+
+https://user-images.githubusercontent.com/56041525/160945123-017ea149-1b80-4317-9b78-ec933da33a1d.mov
+
+https://user-images.githubusercontent.com/56041525/160945139-6da9b6bb-2a5b-4c58-8e00-af94d708bef5.mov
+```
 
 
 ## Pictures
@@ -22,7 +33,6 @@ Some pictures of the project on Desktop, iPAD Mini and Galaxy respectively:
   		<img src="https://github.com/LuisEspinosa7/simple-cards/blob/main/evidence/evidence3.png">
 	  </td>
   </tr>
-</table>
 </table>
 
 
