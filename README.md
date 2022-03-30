@@ -6,8 +6,13 @@ Cards is a basic HTML and CSS3+ proyect which basically shows two cards implemen
 Some videos exposing the responsiveness of the proyect in local environment. Please look in the videos folder...
 
 ## Pictures
-Some pictures of the project:
+Some pictures of the project on Desktop, iPAD Mini and Galaxy respectively:
 
+<p float="left">
+  <img src="https://github.com/LuisEspinosa7/simple-cards/blob/main/evidence/Evidence1.png" width="200">
+  <img src="https://github.com/LuisEspinosa7/simple-cards/blob/main/evidence/evidence2.png" width="150">
+  <img src="https://github.com/LuisEspinosa7/simple-cards/blob/main/evidence/evidence3.png" width="150">
+</p>
 
 
 ## Online demo
